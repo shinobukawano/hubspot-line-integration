@@ -16,4 +16,4 @@
 
 - HubSpotのAPIキーの取得については[こちらの記事](https://knowledge.hubspot.com/jp/articles/kcs_article/integrations/how-do-i-get-my-hubspot-api-key)を参照ください
 
-**本リポジトリのコードは検証目的です。HubSpotをLINE@を連携させた実運用をご希望の方は<a href="https://littlehelp.co.jp/hubspot-line/">サードパーティのHubSpot-LINE@コネクタ</a>の利用をぜひご検討下さい。**
+**本リポジトリのコードは検証目的です。HubSpotをLINE@を連携させた実運用をご希望の方は<a href="https://littlehelp.co.jp/line/">サードパーティのHubSpot-LINE@コネクタ</a>の利用をぜひご検討下さい。**
